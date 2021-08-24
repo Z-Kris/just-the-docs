@@ -113,47 +113,47 @@ figure.highlight {
   color: #586e75;
 } // comment //
 .highlight .err {
-  color: #a9b7cb;
+  color: #a9b7c6;
 } // error //
 .highlight .g {
-  color: #a9b7ce;
+  color: #a9b7c6;
 } // generic //
 .highlight .k {
   color: #cc7832;
 } // keyword //
 .highlight .l {
-  color: #a9b7d4;
+  color: #a9b7c6;
 } // literal //
 .highlight .n {
-  color: #a9b7d7;
+  color: #a9b7c6;
 } // name //
 .highlight .o {
-  color: #a9b7da;
+  color: #a9b7c6;
 } // operator //
 .highlight .x {
   color: #cb4b16;
 } // other //
 .highlight .p {
-  color: #a9b7e0;
+  color: #a9b7c6;
 } // punctuation //
 .highlight .cm {
   color: #586e75;
 } // comment.multiline //
 .highlight .cp {
-  color: #a9b7e6;
+  color: #a9b7c6;
 } // comment.preproc //
 .highlight .c1 {
   color: #586e75;
 } // comment.single //
 .highlight .cs {
-  color: #a9b7ec;
+  color: #a9b7c6;
 } // comment.special //
 .highlight .gd {
   color: #2aa198;
 } // generic.deleted //
 .highlight .ge {
   font-style: italic;
-  color: #a9b7f3;
+  color: #a9b7c6;
 } // generic.emph //
 .highlight .gr {
   color: #dc322f;
@@ -162,29 +162,29 @@ figure.highlight {
   color: #cb4b16;
 } // generic.heading //
 .highlight .gi {
-  color: #a9b7fc;
+  color: #a9b7c6;
 } // generic.inserted //
 .highlight .go {
-  color: #a9b7ff;
+  color: #a9b7c6;
 } // generic.output //
 .highlight .gp {
-  color: #a9b802;
+  color: #a9b7c6;
 } // generic.prompt //
 .highlight .gs {
   font-weight: bold;
-  color: #a9b806;
+  color: #a9b7c6;
 } // generic.strong //
 .highlight .gu {
   color: #cb4b16;
 } // generic.subheading //
 .highlight .gt {
-  color: #a9b80c;
+  color: #a9b7c6;
 } // generic.traceback //
 .highlight .kc {
   color: #cc7832;
 } // keyword.constant //
 .highlight .kd {
-  color: #a9b812;
+  color: #a9b7c6;
 } // keyword.declaration //
 .highlight .kn {
   color: #cc7832;
@@ -193,13 +193,13 @@ figure.highlight {
   color: #cc7832;
 } // keyword.pseudo //
 .highlight .kr {
-  color: #a9b81b;
+  color: #a9b7c6;
 } // keyword.reserved //
 .highlight .kt {
   color: #cc7832;
 } // keyword.type //
 .highlight .ld {
-  color: #a9b821;
+  color: #a9b7c6;
 } // literal.date //
 .highlight .m {
   color: #6897bb;
@@ -214,13 +214,13 @@ figure.highlight {
   color: #b58900;
 } // name.builtin //
 .highlight .nc {
-  color: #a9b830;
+  color: #a9b7c6;
 } // name.class //
 .highlight .no {
   color: #cb4b16;
 } // name.constant //
 .highlight .nd {
-  color: #a9b836;
+  color: #a9b7c6;
 } // name.decorator //
 .highlight .ni {
   color: #cb4b16;
@@ -229,31 +229,31 @@ figure.highlight {
   color: #cb4b16;
 } // name.exception //
 .highlight .nf {
-  color: #a9b83f;
+  color: #a9b7c6;
 } // name.function //
 .highlight .nl {
-  color: #a9b842;
+  color: #a9b7c6;
 } // name.label //
 .highlight .nn {
-  color: #a9b845;
+  color: #a9b7c6;
 } // name.namespace //
 .highlight .nx {
-  color: #a9b848;
+  color: #a9b7c6;
 } // name.other //
 .highlight .py {
-  color: #a9b84b;
+  color: #a9b7c6;
 } // name.property //
 .highlight .nt {
-  color: #a9b84e;
+  color: #a9b7c6;
 } // name.tag //
 .highlight .nv {
-  color: #a9b851;
+  color: #a9b7c6;
 } // name.variable //
 .highlight .ow {
   color: #cc7832;
 } // operator.word //
 .highlight .w {
-  color: #a9b857;
+  color: #a9b7c6;
 } // text.whitespace //
 .highlight .mf {
   color: #6897bb;
@@ -274,7 +274,7 @@ figure.highlight {
   color: #6897bb;
 } // literal.string.char //
 .highlight .sd {
-  color: #a9b86c;
+  color: #a9b7c6;
 } // literal.string.doc //
 .highlight .s2 {
   color: #6897bb;
@@ -283,7 +283,7 @@ figure.highlight {
   color: #cb4b16;
 } // literal.string.escape //
 .highlight .sh {
-  color: #a9b875;
+  color: #a9b7c6;
 } // literal.string.heredoc //
 .highlight .si {
   color: #6897bb;
@@ -301,21 +301,20 @@ figure.highlight {
   color: #6897bb;
 } // literal.string.symbol //
 .highlight .bp {
-  color: #a9b887;
+  color: #a9b7c6;
 } // name.builtin.pseudo //
 .highlight .vc {
-  color: #a9b88a;
+  color: #a9b7c6;
 } // name.variable.class //
 .highlight .vg {
-  color: #a9b88d;
+  color: #a9b7c6;
 } // name.variable.global //
 .highlight .vi {
-  color: #a9b890;
+  color: #a9b7c6;
 } // name.variable.instance //
 .highlight .il {
   color: #6897bb;
 } // literal.number.integer.long //
-
 
 //
 // Code examples (rendered)
